@@ -2,6 +2,8 @@
 
 ระบบแสดงสรุป Earnings Call สำหรับนักลงทุน ประกอบด้วย 3 ไฟล์หลัก
 
+![Preview](img/EarningCallSum-showlist-preview.png)
+
 ---
 
 ## ไฟล์ในระบบ
